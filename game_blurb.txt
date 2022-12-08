@@ -1,0 +1,15 @@
+Game that blatantly rips off breaking bad. "Candy" tycoon for Roblox.
+
+Main game loop:
+
+    Invest money into equipment and resources to make Candy.
+    Do research for better equipment and end products.
+    Manage your public image, by either being very notorious or very secretive.
+    Manage your relation with the "CEA" - the "Candy Enforcement Administration" and avoid getting cought by them.
+    Different characters bring different bonuses:
+
+        The Professor: Master in candy manufacturing.
+        The Manager: Master in logistics fulfillment.
+        The Lawyer: Master in law and CEA relation.
+        The Chemist: Master in research.
+        The Entrepenour: Extra opportunities reveal themselves to this character.
